@@ -16,11 +16,19 @@
 - multicall address
 0xE6169a5A03164E981cC8b4A3090CD445e265DB67
 
-Token部署依赖openzeppelin
+
+相关说明
+1.TokenX部署依赖openzeppelin
 cd tokens
 npm install
 remixd
 到remix 部署到bsc
+
+2.tokenA,tokenB的创建者的address
+助记词
+security easy gasp flash poet achieve energy result cabbage stereo maple material
+地址
+0xF7661dB12cfaE653CA5Ad9B2586A248F0F0a2160
 
 - TokenA address
 0xf0778Ed9B2C828Df989cE0616728D54132cf5850
