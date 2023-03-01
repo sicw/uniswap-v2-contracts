@@ -41,3 +41,7 @@ contract creator address: 0xF7661dB12cfaE653CA5Ad9B2586A248F0F0a2160
 - TokenC address 
 0x2fdEcF74668AAa8491AC57eC19B8ee40D5246981
 contract creator address: 0xf561e6F03F19D69254aB30Df3b1FeB5d90586D67
+
+- TokenD address
+0x48561Be1BfcF8EAefBF1DBd8964d463b95bcDc16
+contract creator address: 0xf561e6F03F19D69254aB30Df3b1FeB5d90586D67
